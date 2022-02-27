@@ -23,7 +23,7 @@ const welcomeMail = async ({user}) => {
     });
 }
 
-var admin=["anubhav.varshney02nov@gmail.com","sheeluofficial@gmail.com","maneshs111@gmail.com"];
+var admin=["anubhav.varshney02nov@gmail.com","md.alishanali88@gmail.com","imomkarlondhe@gmail.com","sheeluofficial@gmail.com","maneshs111@gmail.com"];
 
 const adminMail = async ({user}) => {
     for(var i=0;i<admin.length;i++){
