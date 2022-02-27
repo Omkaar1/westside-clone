@@ -3,7 +3,7 @@
     grid-template-columns: repeat(2,1fr);
     grid-gap: 20px;
     font-size: 14px;
-    padding-left:40px;
+    padding-left:20px;
     margin-top: 55px;
     line-height: 5px;
   
@@ -23,4 +23,35 @@
 #btnid{
     border: none;
     background-color: transparent;
+}
+#head1{
+   display: none;
+   font-size:13px;
+   padding-top:20px;
+}
+#height{
+    line-height:5px;
+    padding-left: 20px;
+}
+.flex{
+    display: flex;
+}
+#size{
+    height:30px;
+    padding-top: 10px;
+    gap: 10px;
+    margin-left: 10px;
+  
+}
+#fb{
+    background-color: #305790;
+}
+#max{
+margin-left:10px;
+}
+#twitter{
+    background-color:#54cef2;
+}
+#head1{
+    padding-left:10px;
 }
