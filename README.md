@@ -1,7 +1,7 @@
 
 <h1>Westside Clone-[https://www.westside.com]</h1>
 <h1>Description</h1>
-<p>>Westside is an e-commerce website for shopping wide varieties of products such as furniture, cloths etc.
+<p>Westside is an e-commerce website for shopping wide varieties of products such as furniture, cloths etc.
  This was a team project which consisted of five members.We were able to complete this project in 5 days.<p>
 <h2>Team Members</h2>
 <ul>
